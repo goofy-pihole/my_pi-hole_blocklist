@@ -1,0 +1,28 @@
+# Custom Pi-hole Blocklist - Trackers & Analytics
+# Last updated: 2025-10-13
+
+# Kameleoon (A/B testing & tracking)
+ezjzp82pi2.kameleoon.io
+eu-data.kameleoon.io
+eu-data-processor-loadbalanced.kameleoon.io
+
+# Snapchat analytics
+app-analytics-v2.snapchat.com
+
+# Microsoft / Bing Ads
+bat.bing.com
+
+# Google Ads / Tracking
+pagead2.googlesyndication.com
+www.googleadservices.com
+ogads-pa.clients6.google.com
+www.googletagmanager.com
+
+# Amazon Ad & Affiliate Tracking
+fls-eu.amazon.com
+
+# Reddit analytics
+w3-reporting.reddit.com
+
+# SearchHub (search UX tracking)
+c.searchhub.io
