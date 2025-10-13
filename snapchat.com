@@ -1,1 +1,1 @@
-https://snapchat.com
+snapchat.com
