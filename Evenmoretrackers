@@ -71,3 +71,24 @@ tracker.dler.org
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ichnaea.dradis.netflix.com
+
+#Netflix
+
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 customerevents.dradis.netflix.com
+0.0.0.0 logs.netflix.com
+0.0.0.0 android.logs.netflix.com
+0.0.0.0 android16.logs.netflix.com
+0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 nmtracking.netflix.com
+0.0.0.0 beacon.netflix.com
+0.0.0.0 push.prod.netflix.com
+0.0.0.0 data.netflix.com
+0.0.0.0 telemetry.netflix.com
+0.0.0.0 metrics.netflix.com
+0.0.0.0 performance.netflix.com
+0.0.0.0 api-global.dradis.netflix.com
+0.0.0.0 appboot.dradis.netflix.com
